@@ -1,4 +1,4 @@
-# Password generator
+# OTP generator
 import random   # this is module or packages
 
 import string    # this is module or packages
